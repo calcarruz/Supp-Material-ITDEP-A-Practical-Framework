@@ -1,0 +1,1 @@
+This repository contains a document that compares AEMO's Integrated System Plan (ISP) to the proposed methodology in the paper "Integrated Transmission and Distribution Planning: A Practical Framework for Coordinated Decision-Making"
